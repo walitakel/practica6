@@ -1,0 +1,61 @@
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\bin\Debug\Практическая 6.exe.config
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\bin\Debug\Практическая 6.exe
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\bin\Debug\Практическая 6.pdb
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая 6.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.form1.resources
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form2.resources
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Properties.Resources.resources
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая 6.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая 6.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая 6.exe
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая 6.pdb
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form3.resources
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form5.resources
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form6.resources
+C:\Users\Студент\Desktop\2019-2020\Гавриков, Дышлюк\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form7.resources
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\bin\Debug\Практическая 6.exe.config
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\bin\Debug\Практическая 6.exe
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\bin\Debug\Практическая 6.pdb
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая 6.csprojAssemblyReference.cache
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form1.resources
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form2.resources
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form3.resources
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form5.resources
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form6.resources
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Form7.resources
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая_6.Properties.Resources.resources
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая 6.csproj.GenerateResource.cache
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая 6.csproj.CoreCompileInputs.cache
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая 6.exe
+F:\№ 4  Обучение\№ 2 Programm\№ 2 C#\№ 5 Консоль работы\№ 1 Проверить\С#\Практическая 6\Практическая 6\obj\Debug\Практическая 6.pdb
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\bin\Debug\Практическая 6.exe.config
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\bin\Debug\Практическая 6.exe
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\bin\Debug\Практическая 6.pdb
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая 6.csprojAssemblyReference.cache
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая_6.Form1.resources
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая_6.Form2.resources
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая_6.Form3.resources
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая_6.Form5.resources
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая_6.Form6.resources
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая_6.Form7.resources
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая_6.Properties.Resources.resources
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая 6.csproj.GenerateResource.cache
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая 6.csproj.CoreCompileInputs.cache
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая 6.exe
+F:\№ 4  Обучение\№ 1 Programm\№ 2 C#\№ 4 Проекты\№ 2 Проекты WinForm\Стрижки WPF\Практическая 6\obj\Debug\Практическая 6.pdb
+C:\Users\Admin\Desktop\Практическая 6\bin\Debug\Практическая 6.exe.config
+C:\Users\Admin\Desktop\Практическая 6\bin\Debug\Практическая 6.exe
+C:\Users\Admin\Desktop\Практическая 6\bin\Debug\Практическая 6.pdb
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая 6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая_6.Form1.resources
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая_6.Form2.resources
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая_6.Form3.resources
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая_6.Form5.resources
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая_6.Form6.resources
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая_6.Form7.resources
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая_6.Properties.Resources.resources
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая 6.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая 6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая 6.exe
+C:\Users\Admin\Desktop\Практическая 6\obj\Debug\Практическая 6.pdb
